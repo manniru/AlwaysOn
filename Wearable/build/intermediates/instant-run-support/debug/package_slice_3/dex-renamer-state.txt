@@ -1,0 +1,4 @@
+#Sat May 19 10:55:57 MYT 2018
+base.0=/Users/mannir/AndroidStudioProjects/AlwaysOn/Wearable/build/intermediates/transforms/dexMerger/debug/3
+path.0=classes.dex
+renamed.0=classes.dex

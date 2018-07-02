@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support:percent-26.0.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/percent-26.0.2.aar/f5c07c894a2a388fd06cb27e8f382b12/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/percent-26.0.2.aar/f5c07c894a2a388fd06cb27e8f382b12/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.support/percent/26.0.2/49be7004641dba5713686628a7657d8bb90a8c9d/percent-26.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

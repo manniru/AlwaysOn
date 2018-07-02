@@ -1,0 +1,203 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/mannir/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml:16:1-56:12
+INJECTED from /Users/mannir/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml:16:1-56:12
+INJECTED from /Users/mannir/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml:16:1-56:12
+MERGED from [com.android.support:wear:27.1.0] /Users/mannir/.gradle/caches/transforms-1/files-1.1/wear-27.1.0.aar/e2e80319d335ccddeec726dacacc038a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-wearable:11.8.0] /Users/mannir/.gradle/caches/transforms-1/files-1.1/play-services-wearable-11.8.0.aar/080fff900d50e029891055134daf3074/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-v13:27.1.0] /Users/mannir/.gradle/caches/transforms-1/files-1.1/support-v13-27.1.0.aar/0019dd7392d30fa1b326d578602e2cbc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.support:wearable:2.3.0] /Users/mannir/.gradle/caches/transforms-1/files-1.1/wearable-2.3.0.aar/cd5f90929381b51c62e677f6cd00dc4b/AndroidManifest.xml:2:1-15:12
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /Users/mannir/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/247ed949b5b5f5358422cefb0091ea4c/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /Users/mannir/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/90683c46d33c36596ddbedbed12d6a6e/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/mannir/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/1932214385e567626d2905db35588853/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.1.0] /Users/mannir/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.0.aar/33abffc1b53cadeab692bdd92d01b4e8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.0] /Users/mannir/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/be4216f237466f01f39ae9d055e15e98/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.0] /Users/mannir/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.0.aar/533b0a4683c5727ba3b826a708571d36/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.0] /Users/mannir/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/7ca36e362e5c547a7e275d966cf640ba/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.0] /Users/mannir/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/9149a6001015551e163987910426c852/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.0] /Users/mannir/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/75d14d892fd3fd48f5c08bd93be8f052/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:percent:26.0.2] /Users/mannir/.gradle/caches/transforms-1/files-1.1/percent-26.0.2.aar/9ce9cebb538fe3f349f5c1f68942dea8/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-compat:27.1.0] /Users/mannir/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/a3cf5a5255c58153ee30df12a57341ba/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/mannir/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/59ae431f5f0685d8b39a4e6013461255/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-wearable-license:11.8.0] /Users/mannir/.gradle/caches/transforms-1/files-1.1/play-services-wearable-license-11.8.0.aar/5161afe8d9b6b5f73339104d0f9447fe/AndroidManifest.xml:2:1-6:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/mannir/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/b86c9ead4ff7bc1e4f6d0724d3579ae4/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/mannir/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/3d7ced7c13b0ca4b93b090a13d56acdc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /Users/mannir/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.8.0.aar/da634da65d78e3c44de42920e3fc4a58/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /Users/mannir/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.8.0.aar/501162470ec156c2b35d9b03a700b022/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /Users/mannir/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.8.0.aar/c30688b7ec022719e302291f7ca1cee7/AndroidManifest.xml:2:1-6:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/mannir/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/cf104e430b242bf4d775c1030a5d9d7e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/mannir/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/d8d453eb0f399a02de003c1a51d6d9c7/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/mannir/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml:16:1-56:12
+INJECTED from /Users/mannir/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml:16:1-56:12
+	package
+		ADDED from /Users/mannir/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml:17:11-63
+	android:versionName
+		INJECTED from /Users/mannir/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml
+		ADDED from /Users/mannir/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml:16:1-56:12
+		INJECTED from /Users/mannir/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/mannir/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml
+		ADDED from /Users/mannir/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml:16:1-56:12
+		INJECTED from /Users/mannir/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/mannir/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml:16:11-69
+uses-sdk
+ADDED from /Users/mannir/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml:19:5-74
+INJECTED from /Users/mannir/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml:19:5-74
+INJECTED from /Users/mannir/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml:19:5-74
+MERGED from [com.android.support:wear:27.1.0] /Users/mannir/.gradle/caches/transforms-1/files-1.1/wear-27.1.0.aar/e2e80319d335ccddeec726dacacc038a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:wear:27.1.0] /Users/mannir/.gradle/caches/transforms-1/files-1.1/wear-27.1.0.aar/e2e80319d335ccddeec726dacacc038a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wearable:11.8.0] /Users/mannir/.gradle/caches/transforms-1/files-1.1/play-services-wearable-11.8.0.aar/080fff900d50e029891055134daf3074/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wearable:11.8.0] /Users/mannir/.gradle/caches/transforms-1/files-1.1/play-services-wearable-11.8.0.aar/080fff900d50e029891055134daf3074/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:27.1.0] /Users/mannir/.gradle/caches/transforms-1/files-1.1/support-v13-27.1.0.aar/0019dd7392d30fa1b326d578602e2cbc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:27.1.0] /Users/mannir/.gradle/caches/transforms-1/files-1.1/support-v13-27.1.0.aar/0019dd7392d30fa1b326d578602e2cbc/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.support:wearable:2.3.0] /Users/mannir/.gradle/caches/transforms-1/files-1.1/wearable-2.3.0.aar/cd5f90929381b51c62e677f6cd00dc4b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.support:wearable:2.3.0] /Users/mannir/.gradle/caches/transforms-1/files-1.1/wearable-2.3.0.aar/cd5f90929381b51c62e677f6cd00dc4b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /Users/mannir/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/247ed949b5b5f5358422cefb0091ea4c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /Users/mannir/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/247ed949b5b5f5358422cefb0091ea4c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /Users/mannir/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/90683c46d33c36596ddbedbed12d6a6e/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /Users/mannir/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/90683c46d33c36596ddbedbed12d6a6e/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/mannir/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/1932214385e567626d2905db35588853/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/mannir/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/1932214385e567626d2905db35588853/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.0] /Users/mannir/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.0.aar/33abffc1b53cadeab692bdd92d01b4e8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.0] /Users/mannir/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.0.aar/33abffc1b53cadeab692bdd92d01b4e8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] /Users/mannir/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/be4216f237466f01f39ae9d055e15e98/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] /Users/mannir/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/be4216f237466f01f39ae9d055e15e98/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.0] /Users/mannir/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.0.aar/533b0a4683c5727ba3b826a708571d36/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.0] /Users/mannir/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.0.aar/533b0a4683c5727ba3b826a708571d36/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] /Users/mannir/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/7ca36e362e5c547a7e275d966cf640ba/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] /Users/mannir/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/7ca36e362e5c547a7e275d966cf640ba/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] /Users/mannir/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/9149a6001015551e163987910426c852/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] /Users/mannir/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/9149a6001015551e163987910426c852/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] /Users/mannir/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/75d14d892fd3fd48f5c08bd93be8f052/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] /Users/mannir/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/75d14d892fd3fd48f5c08bd93be8f052/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:percent:26.0.2] /Users/mannir/.gradle/caches/transforms-1/files-1.1/percent-26.0.2.aar/9ce9cebb538fe3f349f5c1f68942dea8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:percent:26.0.2] /Users/mannir/.gradle/caches/transforms-1/files-1.1/percent-26.0.2.aar/9ce9cebb538fe3f349f5c1f68942dea8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] /Users/mannir/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/a3cf5a5255c58153ee30df12a57341ba/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] /Users/mannir/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/a3cf5a5255c58153ee30df12a57341ba/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/mannir/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/59ae431f5f0685d8b39a4e6013461255/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/mannir/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/59ae431f5f0685d8b39a4e6013461255/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-wearable-license:11.8.0] /Users/mannir/.gradle/caches/transforms-1/files-1.1/play-services-wearable-license-11.8.0.aar/5161afe8d9b6b5f73339104d0f9447fe/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-wearable-license:11.8.0] /Users/mannir/.gradle/caches/transforms-1/files-1.1/play-services-wearable-license-11.8.0.aar/5161afe8d9b6b5f73339104d0f9447fe/AndroidManifest.xml:4:5-43
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/mannir/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/b86c9ead4ff7bc1e4f6d0724d3579ae4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/mannir/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/b86c9ead4ff7bc1e4f6d0724d3579ae4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/mannir/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/3d7ced7c13b0ca4b93b090a13d56acdc/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/mannir/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/3d7ced7c13b0ca4b93b090a13d56acdc/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /Users/mannir/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.8.0.aar/da634da65d78e3c44de42920e3fc4a58/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /Users/mannir/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.8.0.aar/da634da65d78e3c44de42920e3fc4a58/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /Users/mannir/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.8.0.aar/501162470ec156c2b35d9b03a700b022/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /Users/mannir/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.8.0.aar/501162470ec156c2b35d9b03a700b022/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /Users/mannir/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.8.0.aar/c30688b7ec022719e302291f7ca1cee7/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /Users/mannir/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.8.0.aar/c30688b7ec022719e302291f7ca1cee7/AndroidManifest.xml:4:5-43
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/mannir/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/cf104e430b242bf4d775c1030a5d9d7e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/mannir/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/cf104e430b242bf4d775c1030a5d9d7e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/mannir/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/d8d453eb0f399a02de003c1a51d6d9c7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/mannir/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/d8d453eb0f399a02de003c1a51d6d9c7/AndroidManifest.xml:20:5-44
+INJECTED from /Users/mannir/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml:19:5-74
+INJECTED from /Users/mannir/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml:19:5-74
+	android:targetSdkVersion
+		ADDED from /Users/mannir/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml:19:42-71
+		INJECTED from /Users/mannir/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml
+		INJECTED from /Users/mannir/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/mannir/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml:19:15-41
+		INJECTED from /Users/mannir/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml
+		INJECTED from /Users/mannir/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/mannir/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml:21:5-68
+	android:name
+		ADDED from /Users/mannir/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml:21:22-65
+uses-permission#com.android.alarm.permission.SET_ALARM
+ADDED from /Users/mannir/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml:22:5-77
+	android:name
+		ADDED from /Users/mannir/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml:22:22-75
+uses-feature#android.hardware.type.watch
+ADDED from /Users/mannir/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml:24:5-64
+	android:name
+		ADDED from /Users/mannir/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml:24:19-61
+application
+ADDED from /Users/mannir/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml:26:5-55:19
+MERGED from [com.google.android.gms:play-services-wearable:11.8.0] /Users/mannir/.gradle/caches/transforms-1/files-1.1/play-services-wearable-11.8.0.aar/080fff900d50e029891055134daf3074/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wearable:11.8.0] /Users/mannir/.gradle/caches/transforms-1/files-1.1/play-services-wearable-11.8.0.aar/080fff900d50e029891055134daf3074/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.support:wearable:2.3.0] /Users/mannir/.gradle/caches/transforms-1/files-1.1/wearable-2.3.0.aar/cd5f90929381b51c62e677f6cd00dc4b/AndroidManifest.xml:9:5-13:19
+MERGED from [com.google.android.support:wearable:2.3.0] /Users/mannir/.gradle/caches/transforms-1/files-1.1/wearable-2.3.0.aar/cd5f90929381b51c62e677f6cd00dc4b/AndroidManifest.xml:9:5-13:19
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /Users/mannir/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/247ed949b5b5f5358422cefb0091ea4c/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /Users/mannir/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/247ed949b5b5f5358422cefb0091ea4c/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /Users/mannir/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/90683c46d33c36596ddbedbed12d6a6e/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /Users/mannir/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/90683c46d33c36596ddbedbed12d6a6e/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/mannir/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/1932214385e567626d2905db35588853/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/mannir/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/1932214385e567626d2905db35588853/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:percent:26.0.2] /Users/mannir/.gradle/caches/transforms-1/files-1.1/percent-26.0.2.aar/9ce9cebb538fe3f349f5c1f68942dea8/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:percent:26.0.2] /Users/mannir/.gradle/caches/transforms-1/files-1.1/percent-26.0.2.aar/9ce9cebb538fe3f349f5c1f68942dea8/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/mannir/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/59ae431f5f0685d8b39a4e6013461255/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/mannir/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/59ae431f5f0685d8b39a4e6013461255/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-wearable-license:11.8.0] /Users/mannir/.gradle/caches/transforms-1/files-1.1/play-services-wearable-license-11.8.0.aar/5161afe8d9b6b5f73339104d0f9447fe/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-wearable-license:11.8.0] /Users/mannir/.gradle/caches/transforms-1/files-1.1/play-services-wearable-license-11.8.0.aar/5161afe8d9b6b5f73339104d0f9447fe/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /Users/mannir/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.8.0.aar/da634da65d78e3c44de42920e3fc4a58/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /Users/mannir/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.8.0.aar/da634da65d78e3c44de42920e3fc4a58/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /Users/mannir/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.8.0.aar/501162470ec156c2b35d9b03a700b022/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /Users/mannir/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.8.0.aar/501162470ec156c2b35d9b03a700b022/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /Users/mannir/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.8.0.aar/c30688b7ec022719e302291f7ca1cee7/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /Users/mannir/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.8.0.aar/c30688b7ec022719e302291f7ca1cee7/AndroidManifest.xml:5:5-20
+	android:label
+		ADDED from /Users/mannir/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml:28:9-41
+	android:allowBackup
+		ADDED from /Users/mannir/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml:27:9-36
+	android:theme
+		ADDED from /Users/mannir/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml:29:9-59
+meta-data#com.google.android.wearable.standalone
+ADDED from /Users/mannir/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml:31:9-33:36
+	android:value
+		ADDED from /Users/mannir/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml:33:13-33
+	android:name
+		ADDED from /Users/mannir/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml:32:13-66
+uses-library#com.google.android.wearable
+ADDED from /Users/mannir/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml:36:9-93
+MERGED from [com.google.android.support:wearable:2.3.0] /Users/mannir/.gradle/caches/transforms-1/files-1.1/wearable-2.3.0.aar/cd5f90929381b51c62e677f6cd00dc4b/AndroidManifest.xml:10:9-12:40
+MERGED from [com.google.android.support:wearable:2.3.0] /Users/mannir/.gradle/caches/transforms-1/files-1.1/wearable-2.3.0.aar/cd5f90929381b51c62e677f6cd00dc4b/AndroidManifest.xml:10:9-12:40
+	android:required
+		ADDED from /Users/mannir/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml:36:66-90
+	android:name
+		ADDED from /Users/mannir/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml:36:23-65
+activity#com.example.android.wearable.wear.alwayson.MainActivity
+ADDED from /Users/mannir/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml:44:9-53:20
+	android:label
+		ADDED from /Users/mannir/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml:45:13-45
+	android:launchMode
+		ADDED from /Users/mannir/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml:46:13-48
+	android:exported
+		ADDED from /Users/mannir/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml:48:13-36
+	android:configChanges
+		ADDED from /Users/mannir/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml:47:13-63
+	android:name
+		ADDED from /Users/mannir/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml:44:19-89
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/mannir/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml:49:13-52:29
+action#android.intent.action.MAIN
+ADDED from /Users/mannir/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml:50:17-69
+	android:name
+		ADDED from /Users/mannir/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml:50:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/mannir/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml:51:17-77
+	android:name
+		ADDED from /Users/mannir/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml:51:27-74
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.8.0] /Users/mannir/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/247ed949b5b5f5358422cefb0091ea4c/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] /Users/mannir/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/247ed949b5b5f5358422cefb0091ea4c/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] /Users/mannir/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/247ed949b5b5f5358422cefb0091ea4c/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] /Users/mannir/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/247ed949b5b5f5358422cefb0091ea4c/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.8.0] /Users/mannir/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/1932214385e567626d2905db35588853/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.8.0] /Users/mannir/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/1932214385e567626d2905db35588853/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.8.0] /Users/mannir/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/1932214385e567626d2905db35588853/AndroidManifest.xml:24:13-58
+meta-data#android.support.VERSION
+ADDED from [com.android.support:percent:26.0.2] /Users/mannir/.gradle/caches/transforms-1/files-1.1/percent-26.0.2.aar/9ce9cebb538fe3f349f5c1f68942dea8/AndroidManifest.xml:23:9-25:38
+	android:value
+		ADDED from [com.android.support:percent:26.0.2] /Users/mannir/.gradle/caches/transforms-1/files-1.1/percent-26.0.2.aar/9ce9cebb538fe3f349f5c1f68942dea8/AndroidManifest.xml:25:13-35
+	android:name
+		ADDED from [com.android.support:percent:26.0.2] /Users/mannir/.gradle/caches/transforms-1/files-1.1/percent-26.0.2.aar/9ce9cebb538fe3f349f5c1f68942dea8/AndroidManifest.xml:24:13-51
